@@ -1,5 +1,6 @@
 .body-content {
     margin-top: 72px;
+    background-color:#f00;
 }
 
 td, th {
@@ -28,8 +29,8 @@ table.job-listing {
   margin: 30px auto;
 border: 1px solid #e4e4e4;
     width: 80%;
-    table: center;
-    text:center;
+
+
 }
 
 table.job-listing td:first-child {
